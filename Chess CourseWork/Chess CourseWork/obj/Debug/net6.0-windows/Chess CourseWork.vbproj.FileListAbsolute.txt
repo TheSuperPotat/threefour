@@ -1,0 +1,19 @@
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\bin\Debug\net6.0-windows\Chess CourseWork.exe
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\bin\Debug\net6.0-windows\Chess CourseWork.deps.json
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\bin\Debug\net6.0-windows\Chess CourseWork.runtimeconfig.json
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\bin\Debug\net6.0-windows\Chess CourseWork.dll
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\bin\Debug\net6.0-windows\Chess CourseWork.pdb
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.vbproj.AssemblyReference.cache
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.vbproj.GenerateResource.cache
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.AssemblyInfo.vb
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.vbproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.dll
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\refint\Chess CourseWork.dll
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.pdb
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess CourseWork.genruntimeconfig.cache
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\ref\Chess CourseWork.dll
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess_CourseWork.MainMenu.resources
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess_CourseWork.MultiMenu.resources
+C:\Users\John\source\repos\Chess CourseWork\Chess CourseWork\obj\Debug\net6.0-windows\Chess_CourseWork.SingleGame.resources
